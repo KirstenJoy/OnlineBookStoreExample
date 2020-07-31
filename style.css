@@ -1,0 +1,648 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+
+/*Index Page*/
+
+.container,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl {
+    max-width: 1340px;
+}
+
+body {
+    font-family: 'Girassol', cursive;
+}
+
+span {
+    font-size: 20px;
+}
+
+img:hover {
+    box-shadow: 12px 12px 12px 12px rgba(0, 0, 0, 0.2);
+}
+
+.shop-item-image:hover {
+    box-shadow: 12px 12px 12px 12px rgba(0, 0, 0, 0.2);
+    width: 180px;
+    height: 240px;
+}
+
+.mastfoot {
+    margin: auto;
+    text-align: center;
+}
+
+
+/*The Hobbit Page*/
+
+.hobbitImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+}
+
+.hobbitp {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.hobbiti {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.hobbitdiv {
+    margin: auto;
+}
+
+.hobbitbtn {
+    margin-right: 150px;
+}
+
+
+/*To Kill A Mockingbird Page*/
+
+.tokillImg {
+    margin-top: 150px !important;
+    margin-left: 600px;
+    width: 750px;
+    height: 950px;
+    text-align: center;
+}
+
+.tokillp {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.tokilldiv {
+    margin: auto;
+}
+
+.tokilli {
+    margin-left: -35px;
+}
+
+.tokillbtn {
+    margin-right: 150px;
+}
+
+
+/*The Tale of Two Citites Page*/
+
+.taleoftwoImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+}
+
+.taleoftwop {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.taleoftwoi {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.taleoftwodiv {
+    margin: auto;
+}
+
+.taleoftwobtn {
+    margin-right: 150px;
+}
+
+
+/*The Girl On Train Page*/
+
+.girlontrainImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+    height: 550px;
+}
+
+.girlontrainp {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.girlontraini {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.girlontraindiv {
+    margin: auto;
+}
+
+.girlontrainbtn {
+    margin-right: 150px;
+}
+
+
+/*The Lion, The Witch and The Wardrobe Page*/
+
+.narniaImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+    height: 550px;
+}
+
+.narniap {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.narniai {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.narniadiv {
+    margin: auto;
+}
+
+.narniabtn {
+    margin-right: 150px;
+}
+
+
+/*1984 Page*/
+
+.nineImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+    height: 550px;
+}
+
+.ninep {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.ninei {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.ninediv {
+    margin: auto;
+}
+
+.ninebtn {
+    margin-right: 150px;
+}
+
+
+/*Harry Potter and the Deathly Hallows*/
+
+.deathlyImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+    height: 550px;
+}
+
+.deathlyp {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.deathlyi {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.deathlydiv {
+    margin: auto;
+}
+
+.deathlybtn {
+    margin-right: 150px;
+}
+
+
+/*Pride and Prejudice */
+
+.prideImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+    height: 550px;
+}
+
+.pridep {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.pridei {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.pridediv {
+    margin: auto;
+}
+
+.pridebtn {
+    margin-right: 150px;
+}
+
+
+/* The Great Gatsby Page*/
+
+.greatImg {
+    margin-top: 150px !important;
+    margin-left: 600px;
+    width: 750px;
+    height: 950px;
+    text-align: center;
+}
+
+.greatp {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.greatdiv {
+    margin: auto;
+}
+
+.greati {
+    margin-left: -35px;
+}
+
+.greatbtn {
+    margin-right: 150px;
+}
+
+
+/*Little Women Page*/
+
+.littleImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+    height: 550px;
+}
+
+.littlep {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.littlei {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.littlediv {
+    margin: auto;
+}
+
+.littlebtn {
+    margin-right: 150px;
+}
+
+
+/*Lord of the Flies Page*/
+
+.lordImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+    height: 550px;
+}
+
+.lordp {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.lordi {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.lorddiv {
+    margin: auto;
+}
+
+.lordbtn {
+    margin-right: 150px;
+}
+
+
+/*A Wrinkle in Time Page*/
+
+.wrinkleImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+    height: 550px;
+}
+
+.wrinklep {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.wrinklei {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.wrinklediv {
+    margin: auto;
+}
+
+.wrinklebtn {
+    margin-right: 150px;
+}
+
+
+/*The Adventures of Huckleberry Finn Page*/
+
+.finImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+    height: 550px;
+}
+
+.finp {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.fini {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.findiv {
+    margin: auto;
+}
+
+.finbtn {
+    margin-right: 150px;
+}
+
+
+/*The Giver Page*/
+
+.giverImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+    height: 550px;
+}
+
+.giverp {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.giveri {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.giverdiv {
+    margin: auto;
+}
+
+.giverbtn {
+    margin-right: 150px;
+}
+
+
+/* Charlotte's Web Page*/
+
+.webImg {
+    margin-top: 150px !important;
+    margin-left: 600px;
+    width: 750px;
+    height: 950px;
+    text-align: center;
+}
+
+.webp {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.webdiv {
+    margin: auto;
+}
+
+.webi {
+    margin-left: -35px;
+}
+
+.webbtn {
+    margin-right: 150px;
+}
+
+
+/*The Secret Garden Page*/
+
+.secretImg {
+    margin-top: 150px;
+    margin-left: 750px;
+    text-align: center;
+    height: 550px;
+}
+
+.secretp {
+    text-align: left;
+    margin: auto;
+    font-size: 24px;
+}
+
+.secreti {
+    margin-left: 250px;
+    text-align: center;
+}
+
+.secretdiv {
+    margin: auto;
+}
+
+.secretbtn {
+    margin-right: 150px;
+}
+
+
+/*Media Query*/
+
+@media only screen and (max-width: 900px) {
+    /*Image resizing*/
+    .hobbitImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .tokillImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .taleoftwoImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .girlontrainImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .narniaImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .nineImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .deathlyImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .prideImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .greatImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .littleImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .lordImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .wrinkleImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .finImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .giverImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .webImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    .secretImg {
+        margin-left: 100px;
+        width: 200px;
+        height: 240px;
+    }
+    /*Title resizing*/
+    .hobbiti {
+        margin: auto;
+        text-align: center;
+    }
+    .tokilli {
+        margin: auto;
+        text-align: center;
+    }
+    .taleoftwoi {
+        margin: auto;
+        text-align: center;
+    }
+    .girlontraini {
+        margin: auto;
+        text-align: center;
+    }
+    .narniai {
+        margin: auto;
+        text-align: center;
+    }
+    .ninei {
+        margin: auto;
+        text-align: center;
+    }
+    .deathlyi {
+        margin: auto;
+        text-align: center;
+    }
+    .pridei {
+        margin: auto;
+        text-align: center;
+    }
+    .greati {
+        margin: auto;
+        text-align: center;
+    }
+    .littlei {
+        margin: auto;
+        text-align: center;
+    }
+    .lordi {
+        margin: auto;
+        text-align: center;
+    }
+    .wrinklei {
+        margin: auto;
+        text-align: center;
+    }
+    .fini {
+        margin: auto;
+        text-align: center;
+    }
+    .giveri {
+        margin: auto;
+        text-align: center;
+    }
+    .webi {
+        margin: auto;
+        text-align: center;
+    }
+    .secreti {
+        margin: auto;
+        text-align: center;
+    }
+}
